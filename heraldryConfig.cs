@@ -1,0 +1,26 @@
+$heraldry::color1  = "155 32 8";    // червлёнь
+$heraldry::color2  = "105 17 0";    // червлёнь тёмная
+$heraldry::color3  = "162 98 44";   // оранжевый
+$heraldry::color4  = "101 56 26";   // оранжевый тёмный
+$heraldry::color5  = "218 184 113"; // золото
+$heraldry::color6  = "170 132 59";  // золото тёмное
+$heraldry::color7  = "6 79 5";      // зелень
+$heraldry::color8  = "6 55 19";     // зелень тёмная
+$heraldry::color9  = "26 86 148";   // лазурь
+$heraldry::color10 = "14 51 90";    // лазурь тёмная 
+$heraldry::color11 = "67 44 73";    // пурпур
+$heraldry::color12 = "55 30 76";    // пурпур тёмный
+$heraldry::color13 = "26 27 29";    // чёрнь
+$heraldry::color14 = "18 18 19";    // чёрнь тёмная
+$heraldry::color15 = "182 171 154"; // серебро
+$heraldry::color16 = "101 98 88";   // серебро тёмное
+
+$heraldry::chargeTopLeftPos      = "362 362"; //"723 723";
+$heraldry::chargeTopCenterPos    = "512 362"; //"1024 723";
+$heraldry::chargeTopRightPos     = "663 362"; //"1327 723";
+$heraldry::chargeMiddleLeftPos   = "362 512"; //"723 1024";
+$heraldry::chargeTrueCenterPos   = "512 512"; //"1024 1024";
+$heraldry::chargeMiddleRightPos  = "663 512"; //"1327 1024";
+$heraldry::chargeBottomLeftPos   = "362 663"; //"723 1327";
+$heraldry::chargeBottomCenterPos = "512 663"; //"1024 1327";
+$heraldry::chargeBottomRightPos  = "663 663"; //"1327 1327"
